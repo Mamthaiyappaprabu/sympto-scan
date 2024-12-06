@@ -24,7 +24,8 @@ Easy to use and supported by many AI tools.
 
 ### SCOPE OF THE PROJECT :
 **Diagnosing lung cancer**
-***Scope:*** 
+
+**Scope:**
 * Focused on detecting the presence of cancer cells in lung scans.
 * Aims to identify malignancies at an early stage for timely intervention.
 * Reduces dependency on manual interpretation by radiologists.
