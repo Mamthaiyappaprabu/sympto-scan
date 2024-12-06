@@ -40,7 +40,8 @@ Easy to use and supported by many AI tools.
 * A user-friendly interface for model deployment.
 ### FUTURE WORKS :
 * Real-time Monitoring: The system could help doctors track a patient's health in real-time, predicting how the cancer might progress and helping doctors take early action.
-Personalized Treatment Plans: The AI could help create treatment plans tailored to each patient based on their unique health data, leading to better outcomes and fewer side effects.
+  
+* Personalized Treatment Plans: The AI could help create treatment plans tailored to each patient based on their unique health data, leading to better outcomes and fewer side effects.
 
 
 
