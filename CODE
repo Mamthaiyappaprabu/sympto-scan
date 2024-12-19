@@ -1,5 +1,4 @@
-## CODE :
-```
+```Python
 # Import necessary libraries
 from google.colab import drive
 drive.mount('/content/drive')
@@ -184,4 +183,6 @@ def plot_losses(history):
 
 plot_accuracies(history)
 plot_losses(history)
+
 ```
+
