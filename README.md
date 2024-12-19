@@ -293,6 +293,16 @@ plot_losses(history)
 * Precision: 1.00%
 * Recall: 0.97%
 
+
+### WEBSITE OUTPUT :
+
+
+![WhatsApp Image 2024-12-19 at 12 44 39_17e436c8](https://github.com/user-attachments/assets/9ba27b95-9141-4816-a231-a9f7e06fdf54)
+
+
+![WhatsApp Image 2024-12-19 at 12 44 39_52e3c511](https://github.com/user-attachments/assets/e4885da2-a1ad-4ba0-a77d-3f4722994a67)
+
+
 ### RESULT :
 * Accurate and Efficient Lung Cancer Detection:
    The AI system improves diagnostic accuracy and speed, enabling early detection and timely 
