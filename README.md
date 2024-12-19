@@ -87,8 +87,7 @@ Easy to use and supported by many AI tools.
 * Suitable for tasks requiring high precision, such as lung cancer detection.
 
 
-
-  ### ARCHITECTURE DIAGRAM :
+### ARCHITECTURE DIAGRAM :
 
   ![image](https://github.com/user-attachments/assets/b164d62c-198d-483b-9c44-015673c0b3f8)
 
